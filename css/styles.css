@@ -122,6 +122,11 @@ hr {
   bottom: 300px;
 }
 
+.mountain {
+  position: relative;
+  margin-top: 100px
+  }
+
 .top-cloud {
   position: absolute;
   /*parent = .top-container*/
